@@ -1,3 +1,5 @@
+# Posterior samples
+
 This directory contains the event posterior samples
 * posteriors_1.pkl, posteriors_2.pkl (spinning)
 * posteriors_zero_1.pkl, posteriors_zero_2.pkl (non-spinning) 
@@ -17,4 +19,4 @@ for line in ff.read().splitlines():
     event_ids.append(line)
 ```
 
-where the corresponding	event name can be found	under the same index of the event_ids list.
+where the corresponding	event name can be found	under the same index of the `event_ids` list.
