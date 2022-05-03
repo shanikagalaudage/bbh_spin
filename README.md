@@ -8,7 +8,6 @@ Recent work paints a conflicting portrait of the distribution of black hole spin
 ## Repository contents
 * [posterior samples](./posterior_samples) - the samples from the event posteriors read in for the population analysis
 * [hyper posterior samples](./hyperposterior_samples) - samples for the population analysis using the _Extended_ spin model
-* [predictive distribution data](./predictive_distribution_data) - population draws and predictive samples
 * [plots](./plots) - contains the figures from the publication and additional plots
 
 For results for the _Default_ spin model results, see the official data release from LIGO/Virgo [here](https://dcc.ligo.org/LIGO-P2000434/public) in `Population_Samples.tar.gz`
